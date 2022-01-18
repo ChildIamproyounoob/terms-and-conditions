@@ -4,8 +4,32 @@ table, th, tr, td{
     border-spacing: 5px;
     padding: 15px;
     border-collapse: collapse;
-    font-size: 15px;}
+    font-size: 30px;}
 
     header{
         font-size: 30px;
+    }
+
+    .rule1{
+        background-color: aqua;
+    }
+
+    .rule2{
+        background-color: cadetblue;
+    }
+
+    .rule3{
+        background-color: coral;
+    }
+
+    .rule4{
+        background-color: rgb(47, 85, 66);
+    }
+
+    .rule5{
+        background-color: rosybrown;
+    }
+
+    .rule6{
+        background-color: salmon;
     }
